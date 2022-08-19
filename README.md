@@ -2,5 +2,5 @@
 
 - 👋🏾Olá, eu sou @leticiaa-s .
 - 👩🏾‍💻 Desenvolvedora Web Full Stack em formação.
-- 📚 Atualmente estou estudando HTML, CSS, JavaScript, Angular, TypeScript e Java.
+- 📚 Atualmente estou estudo HTML, CSS, JavaScript, Angular, TypeScript e Java.
 - 📧 Para entrar em contato comigo, envie um email para leticiasqr97@gmail.com
