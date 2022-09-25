@@ -1,5 +1,6 @@
 ## 👋🏾Olá, eu sou Letícia Santos.
-- 👩🏾‍💻 Desenvolvedora Web Full Stack em formação.
+- 👩🏾‍💻 Desenvolvedora Web Full Stack em formação;
+- 👩🏾‍🔬 Graduada em Ciências Biológicas (Licenciatura) pela UFCG;
 <div align="center">
   <a href="https://github.com/leticiaa-s">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leticiaa-s&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
