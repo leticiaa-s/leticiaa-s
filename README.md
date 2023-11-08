@@ -1,5 +1,5 @@
 <h1 align="center"> Olá, eu sou Letícia Santos ✨ </h1>
-- 👩🏾‍💻 Desenvolvedora Web Full Stack Júnior; <br>
+- 👩🏾‍💻 Desenvolvedora Web Full Stack; <br>
 - 👩🏾‍🔬 Graduada em Ciências Biológicas (Licenciatura) pela UFCG; <br>
 - 📚 Cursando Análise e Desenvolvimento de Sistemas pela Faculdade UniBF.
 
