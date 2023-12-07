@@ -1,7 +1,7 @@
-<h1 align="center"> Olá, eu sou Letícia Santos ✨ </h1>
-- 👩🏾‍💻 Desenvolvedora Web Full Stack; <br>
-- 👩🏾‍🔬 Graduada em Ciências Biológicas (Licenciatura) pela UFCG; <br>
-- 📚 Cursando Análise e Desenvolvimento de Sistemas pela Faculdade UniBF.
+<h1 align="center">👩🏾‍💻 Olá, meu nome é Letícia! </h1>
+- 👩🏾‍🔬 Graduada em Ciências Biológicas pela UFCG; <br>
+- 📚 Estudando Análise e Desenvolvimento de Sistemas na Faculdade UniBF; <br>
+- 💼 Trabalhando voluntariamente como Desenvolvedora Full Stack focada em Front-end na Hug.U 💜.
 
 <div align="center"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
