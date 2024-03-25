@@ -1,7 +1,7 @@
-<h1 align="center">👩🏾‍💻 Olá, meu nome é Letícia! </h1>
+<h1 align="center"> Olá, meu nome é Letícia! </h1>
+- 👩🏾‍💻 Desenvolvedora Front-end com experiência em Angular e React;<br>
 - 👩🏾‍🔬 Graduada em Ciências Biológicas pela UFCG; <br>
 - 📚 Estudando Análise e Desenvolvimento de Sistemas na Faculdade UniBF; <br>
-- 💼 Atuei voluntariamente como Desenvolvedora Full Stack focada em Front-end na Hug.U.
 
 <div align="center"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -12,11 +12,7 @@
   <img align="center" alt="NodeJs" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg"/>       
   <img align="center" alt="Bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
   <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"/>
-  <img align="center" alt="React.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img align="center" alt="Vite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
-  <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg"/>
+  <img align="center" alt="React.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>
 </div><br>
 
